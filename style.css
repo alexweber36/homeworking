@@ -8,6 +8,11 @@ body{
 h1{
     text-align: center;
     border: crimson;
+    border-image-repeat: round;
+    width: 1px;
+    color: forestgreen;
+    border-image-repeat: round;
+
 }
 
  
