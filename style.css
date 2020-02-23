@@ -12,7 +12,14 @@ h1{
     width: 1px;
     color: forestgreen;
     border-image-repeat: round;
+    
 
+}
+img{
+    color: black;
+    border: solid;color: gold;
+    size: 10px
+    
 }
 
  
